@@ -1,0 +1,12 @@
+language: python
+python:
+  - "3.3"
+  - "2.7"
+install:
+  - "pip install -q coverage coveralls --use-wheel"
+script:
+  - coverage run --source=ribbon.py ribbon.py
+after_success:
+  - coveralls
+notifications:
+  email: false
