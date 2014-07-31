@@ -1,4 +1,4 @@
-ribbon[![Coverage Status](https://coveralls.io/repos/hanks/ribbon/badge.png?branch=master)](https://coveralls.io/r/hanks/ribbon?branch=master)[![Build Status](https://travis-ci.org/hanks/ribbon.svg?branch=master)](https://travis-ci.org/hanks/ribbon)[![PyPI version](https://badge.fury.io/py/ribbon.svg)](http://badge.fury.io/py/ribbon)[![PyPi downloads](https://pypip.in/d/ribbon/badge.png)](https://crate.io/packages/ribbon/)
+ribbon[![Coverage Status](https://coveralls.io/repos/hanks/ribbon/badge.png?branch=master)](https://coveralls.io/r/hanks/ribbon?branch=master)[![Build Status](https://travis-ci.org/hanks/ribbon.svg?branch=master)](https://travis-ci.org/hanks/ribbon)[![PyPI version](https://badge.fury.io/py/ribbon.svg)](http://badge.fury.io/py/ribbon)[![PyPi downloads](https://pypip.in/d/ribbon/badge.png)](https://crate.io/packages/ribbon/)![pep8](http://img.shields.io/badge/pep8-passing-brightgreen.svg)
 ===========================
 
 A simple color print library for console.
