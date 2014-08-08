@@ -1,5 +1,5 @@
 ribbon 
-======
+=======
 
 .. image:: https://coveralls.io/repos/hanks/ribbon/badge.png?branch=master
    :target: https://coveralls.io/r/hanks/ribbon?branch=master
@@ -38,7 +38,7 @@ Version History
 ---------------
 
 *VERSION 1.0 - 2014/07/30*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+...........................
 + First release upon the world  
 
 Why
