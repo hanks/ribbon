@@ -11,7 +11,7 @@ def read(file_path):
         content = f.read()
     return content
     
-long_description = read('{}/{}'.format(here, 'README.md'))
+long_description = read('{}/{}'.format(here, 'README.rst'))
 
 setup(
     name="ribbon",
