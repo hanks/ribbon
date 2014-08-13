@@ -6,11 +6,12 @@ from distutils.core import setup
 
 here = os.path.abspath(os.path.dirname(__file__))
 
+
 def read(file_path):
     with open(file_path, 'r') as f:
         content = f.read()
     return content
-    
+
 long_description = read('{}/{}'.format(here, 'README.rst'))
 
 setup(
