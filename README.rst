@@ -1,4 +1,4 @@
-ribbon 
+ribbon
 =======
 
 .. image:: https://coveralls.io/repos/hanks/ribbon/badge.png?branch=master
@@ -39,17 +39,17 @@ Version History
 
 *VERSION 1.0 - 2014/07/30*
 ...........................
-+ First release upon the world  
++ First release upon the world
 
 Why
 ---
-Just inspired by **fabric.colors** module, and want to try how to release a python package to PyPi, so create this simple library.  
+Just inspired by **fabric.colors** module, and want to try how to release a python package to PyPi, so create this simple library.
 
 The ribbon library can help you to print colorful text in console more easily, and even you can print **rainbow-like** text. Just for fun!!
 
 Demo
 ----
-.. image:: https://raw2.github.com/hanks/ribbon/master/demo/demo.png
+.. image:: https://raw.githubusercontent.com/hanks/ribbon/master/demo/demo.png
    :alt: demo
 
 Usage
